@@ -1,4 +1,4 @@
-[Lisence](https://github.com/ElijahPartney/Portfolio/blob/main/LICENSE)
+[MIT License](https://github.com/ElijahPartney/Portfolio/blob/main/LICENSE)
 
 Copyright (c) 2023 Elijah Partney
 
