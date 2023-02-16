@@ -1,5 +1,5 @@
 git add .
-git commit -m "Update to logo and front"
+git commit -m "Started About Section"
 git remote add origin https://github.com/ElijahPartney/Portfolio.git
 git branch -M main
 git push -u origin main
